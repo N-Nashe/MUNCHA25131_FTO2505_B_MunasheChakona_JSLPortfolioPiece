@@ -48,7 +48,7 @@ The website is fully **responsive** on **desktop devices**, using appropriate **
 
 - **Live Server**  - This helps view the website properly with live reloads if any changes are made
   - 🔍 *Search for:* `Live Server`  
-  - Ensure that once you press install that is it *enabled*  
+  - Ensure that once you press install that is it *enabled so that you can use it to view the board*  
   - 🔥 *Feature:* Lets you right-click your `index.html` and click **"Open with Live Server"** — auto-reloads on save!
 
 ---
@@ -56,11 +56,11 @@ The website is fully **responsive** on **desktop devices**, using appropriate **
 ## 🚀 Usage
 
 ### 🔧 How to Run the Project
+1.  - Launch VS Code.
 
-1. Open the project folder in VS Code:
-   - Launch VS Code.
-   - Go to **File > Open Folder...** and select your project directory.
-2. Locate `index.html`, **right-click**, and select **"Open with Live Server"**.
+2. Open the Explorer page in VS Code **THE TOP ICON ON THE SIDEBAR WITH THE ICONS AS FILES**:
+
+3. Locate `index.html`, **right-click**, and select **"Open with Live Server"**.
 
 ---
 
