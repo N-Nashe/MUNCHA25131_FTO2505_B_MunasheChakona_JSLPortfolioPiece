@@ -1,4 +1,6 @@
 // Initializes the sidebar toggle functionality
+// This function manages the visibility of the sidebar
+// It allows users to show or hide the sidebar using buttons
 export function setupSidebarToggle() {
   const sidebar = document.getElementById("side-bar-div");
   const showBtn = document.getElementById("show-sidebar-btn");

@@ -42,7 +42,7 @@ function updateColumnCounts(tasks) {
   const todoText = document.getElementById("todoText");
   const doingText = document.getElementById("doingText");
   const doneText = document.getElementById("doneText");
-
+// Update the text content of each header with the count
   if (todoText) todoText.textContent = `TODO (${counts.todo})`;
   if (doingText) doingText.textContent = `DOING (${counts.doing})`;
   if (doneText) doneText.textContent = `DONE (${counts.done})`;

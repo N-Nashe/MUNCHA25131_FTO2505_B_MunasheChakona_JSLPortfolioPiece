@@ -19,7 +19,9 @@ export function setupThemeToggle() {
     // Apply or remove the 'dark' class on the body based on the toggle
     body.classList.toggle("dark", isDark);
 
-    // Save the user's preference in localStorage
+    // Save the user's preference in localStorage 
+    // This allows the theme to persist across page reloads
+    // and browser sessions
     localStorage.setItem("theme", isDark ? "dark" : "light");
   });
 }
