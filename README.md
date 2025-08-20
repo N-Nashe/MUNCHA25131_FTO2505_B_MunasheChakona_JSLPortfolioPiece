@@ -1,9 +1,9 @@
-# 🌐 Portfolio Website
+# 🌐 Javascript Kanban Board
 
 ## 📋 Project Information
 
-A **personal resume website** designed to showcase my **skills, projects, and previous work experience** using **HTML**, **CSS**, and **Figma**.  
-The website is fully **responsive** on **desktop devices**, using appropriate **media queries** for a smooth user experience. 
+A **Dynamic functional Kanban board** designed to add tasks the board with various features like **Being able to add tasks which will store in a local storage, delete tasks, has a dark mode and others!** using **HTML**, **CSS**, **Javascript** and **Figma**.  
+The website is fully **responsive** on **desktop devices**, using appropriate **media queries** for a smooth user experience. as well as **Javascript to make it function to a degree**
 
 ---
 
@@ -46,7 +46,7 @@ The website is fully **responsive** on **desktop devices**, using appropriate **
 
 #### 🔌 Recommended Extension
 
-- **Live Server**  
+- **Live Server**  - This helps view the website properly with live reloads if any changes are made
   - 🔍 *Search for:* `Live Server`  
   - Ensure that once you press install that is it *enabled*  
   - 🔥 *Feature:* Lets you right-click your `index.html` and click **"Open with Live Server"** — auto-reloads on save!
@@ -64,28 +64,9 @@ The website is fully **responsive** on **desktop devices**, using appropriate **
 
 ---
 
-## 💁🏾 What is in the document?
-
-- 📱 Fully responsive and accessible for **desktop** 
-
-- 🔗 Clickable links for easy navigation.
-
----
-
-## 🎯 Target Audience
-
-- 💼 **Potential Employers**
 
 
----
-## Struggles faced 
-
--Mobile responsiveness📲
-## 🎥 Video Presentation
 
 Watch a short walkthrough of this project, where I explain the structure, features, and technologies used.
 
 🔗 [Click here to view the presentation](https://www.veed.io/view/30dd0efa-711e-4ec2-a665-be4263ca83da?panel=share)
-<!-- Replace the # with your video link, e.g. https://youtu.be/your-video-id -->
-
----
