@@ -69,4 +69,4 @@ The website is fully **responsive** on **desktop devices**, using appropriate **
 
 Watch a short walkthrough of this project, where I explain the structure, features, and technologies used.
 
-🔗 [Click here to view the presentation](https://www.veed.io/view/30dd0efa-711e-4ec2-a665-be4263ca83da?panel=share)
+🔗 [Click here to view the presentation](https://www.veed.io/view/cbf34c39-e42b-4b84-a4ad-e3fa568e8007?panel=share)
